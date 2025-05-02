@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![3](https://github.com/user-attachments/assets/c94c75e5-45da-4c38-8bf7-3d0ace92b0c2)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 02/05/2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -31,7 +31,6 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -47,8 +46,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![1](https://github.com/user-attachments/assets/9127ab5c-fe8f-48e5-a815-c505e3003927)
+![2](https://github.com/user-attachments/assets/4d95363d-c905-43a7-aec8-e2008cbd1b70)
+![3](https://github.com/user-attachments/assets/70d3fd1c-1ece-4a2d-8647-9a54d3d8d17b)
+
+### Name:SANJANA K L
+### Register Number: 212224230241
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
